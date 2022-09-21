@@ -1,3 +1,12 @@
+/*****************************************************************************
+<                                                                           >
+ <                                                                         >
+  <                 C PROGRAM TO DRAW A MAN PROPOSING A WOMAN             >
+   <                                                                     >
+    <                                                                   >
+     <                   >PROJECT BY APARUP TRIPATHI<                  >
+<<<<<>                                                                <>>>>>>
+******************************************************************************/
 #include<graphics.h>
 #include<conio.h>
 #include<stdio.h>
